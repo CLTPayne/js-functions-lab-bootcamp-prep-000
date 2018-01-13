@@ -5,8 +5,7 @@ function happyHolidays(){
 }
 
 function happyHolidaysTo(nqme){
-  var name = `Happy holidays, ${name}!`;
-  return name;
+  return `Happy holidays, ${name}!`;
 }
 
 function holidayCountdown(holiday, days) {
