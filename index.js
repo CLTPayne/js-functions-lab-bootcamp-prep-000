@@ -4,7 +4,7 @@ function happyHolidays(){
   return greetings;
 }
 
-function happyHolidaysTo(nqme){
+function happyHolidaysTo(name){
   return `Happy holidays, ${name}!`;
 }
 
